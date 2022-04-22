@@ -4,13 +4,15 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
 }
 
 .texto {
     text-align: center;
     font-family: poppins, sans-serif;
     color: white;
-    padding: 13px;
+    padding: 8px;
 }
 
 .foto {
@@ -29,17 +31,13 @@ body {
 }
 
 .login {
-    padding-top: 10%;
+    padding-top: 20px;
 }
 
 .formulario {
     display: flex;
     align-items: center;
     height: 390px;
-    width: 100%;
-}
-
-form {
     width: 100%;
 }
 
