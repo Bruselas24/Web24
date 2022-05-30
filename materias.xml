@@ -1,0 +1,22 @@
+<MATERIAS>
+<MATERIA>
+<NOMBRE> Matematica </NOMBRE>
+<PROFESOR> Profesor de matematica </PROFESOR>
+</MATERIA>
+<MATERIA>
+<NOMBRE> Redes </NOMBRE>
+<PROFESOR> Profesor de Redes </PROFESOR>
+</MATERIA>
+<MATERIA>
+<NOMBRE> Analisis </NOMBRE>
+<PROFESOR> Profesor de Analisis </PROFESOR>
+</MATERIA>
+<MATERIA>
+<NOMBRE> Ingles </NOMBRE>
+<PROFESOR> Profesor de Ingles </PROFESOR>
+</MATERIA>
+<MATERIA>
+<NOMBRE> Produccion </NOMBRE>
+<PROFESOR> Profesor de Produccion </PROFESOR>
+</MATERIA>
+</MATERIAS>

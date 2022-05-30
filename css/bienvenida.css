@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background-image: url(../img/et.jpg);
+    overflow-y: hidden;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100%;
+    max-width: 100%;
+    position: relative;
+    z-index: 1;
+}
+
+.hero {
+    background-image: linear-gradient(120deg, rgba(161, 196, 253, 0.692) 0%, rgba(194, 233, 251, 0.699) 100%);
+}
+
+.textos-hero {
+    height: 800px;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.textos-hero h1 {
+    font-size: 60px;
+}
+
+table {
+    padding: 200px;
+    table-layout: auto;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    font: Poppins;
+    padding: 7px;
+}
+
+.container {
+    margin: 20px;
+    background: #2C3E50;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to left, #4CA1AF, #2C3E50);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to left, #4CA1AF, #2C3E50);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-radius: 10px;
+}
